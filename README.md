@@ -7,7 +7,6 @@
 Here are some ideas to get you started:
 
 - 👋 Hi, I’m @wafik
-- 👀 I’m interested in backend developer
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Fullstack Developer & Devops
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me wafik.net
