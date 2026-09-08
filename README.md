@@ -15,7 +15,7 @@ Fullstack Developer & DevOps practitioner focused on building scalable, reliable
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** JavaScript / TypeScript, C++, Python
+* **Languages:** JavaScript / TypeScript, C++, Python, PHP, Golang
 * **Frontend:** React, Next.js, Modern Web Technologies
 * **Backend:** Node.js, RESTful APIs, Microservices
 * **DevOps & Cloud:** Docker, CI/CD Pipelines, Linux, Cloud Infrastructure
